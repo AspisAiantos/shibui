@@ -731,4 +731,6 @@ details[open] > .toc-title::before {
   }
 }
 
-
+sup {
+  font-size: x-small;
+}
