@@ -733,7 +733,8 @@ details[open] > .toc-title::before {
 }
 
 sup {
-  font-size: x-small;
+  margin-left: 2px;
+  font-size: small;
 }
 
 sub {
